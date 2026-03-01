@@ -1,0 +1,74 @@
+name: Build and Publish AppImage
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: appimage-main-release
+  cancel-in-progress: true
+
+jobs:
+  build-appimage:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache Rust build artifacts
+        uses: Swatinem/rust-cache@v2
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            ca-certificates \
+            curl \
+            file \
+            pkg-config \
+            libasound2-dev \
+            libgl1-mesa-dev \
+            libgtk-3-dev \
+            libudev-dev \
+            libwayland-dev \
+            libx11-dev \
+            libxcursor-dev \
+            libxi-dev \
+            libxinerama-dev \
+            libxkbcommon-dev \
+            libxrandr-dev
+
+      - name: Install linuxdeploy
+        run: |
+          mkdir -p tools
+          curl -L "https://github.com/linuxdeploy/linuxdeploy/releases/download/continuous/linuxdeploy-x86_64.AppImage" \
+            -o tools/linuxdeploy-x86_64.AppImage
+          chmod +x tools/linuxdeploy-x86_64.AppImage
+
+      - name: Build AppImage
+        env:
+          APPIMAGE_WORK_DIR: ${{ runner.temp }}/appimage-work
+        run: bash packaging/appimage/build-appimage.sh
+
+      - name: Publish AppImage release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: main-appimage
+          name: Main AppImage
+          prerelease: true
+          allowUpdates: true
+          removeArtifacts: true
+          replacesArtifacts: true
+          artifacts: "dist/*.AppImage"
+          body: |
+            Automated AppImage build from the latest `main` commit.
+            Commit: ${{ github.sha }}

@@ -1,0 +1,792 @@
+Collection: It Is All Greek
+Author: DrFogh
+E-mail: bjertrup58@gmail.com
+URL: www.sokoban.dk
+Published: 2019-02-24
+Date_First: 2017-06-24
+Date_Last: 2017-12-01
+
+Download and play as you wish.
+Don't publish uninteresting variations. You are the judge.
+Give proper credit.
+Free to publish.
+
+Right through the greek alphabeth. You only need to get one box to its
+goal so that should be easy.
+The goal with this collection was to construct the levels so it
+is necessary to move all the boxes to solve the level.
+Sometimes I simply didn't succed with the chosen layout of the
+letter.
+Can you do it better? Mail me and I will publish your level.
+
+You can check the resemblance of the letters at 
+https://www.omniglot.com/writing/greek.htm
+
+Thanks to Anian in particular but also to Brian Damgaard, Jordi Domenech 
+and Matthias Meger for valuable input to make a better collection.
+
+Regards
+DrFogh
+
+Boxes not needed to move:
+0 Alpha
+1 Beta
+0 Gamma
+0 Big Gamma
+0 Delta
+1 Big Delta
+0 Epsilon
+0 Zeta
+0 Eta
+1 Theta
+1 Big Theta
+0 Iota
+0 Kappa
+0 Lambda
+0 Big Lambda
+0 Mu
+0 Nu
+0 Xi
+1 Big Xi
+1 Omikron
+0 Pi
+0 Big Pi
+0 Rho
+0 Sigma1
+0 Sigma2
+0 Big Sigma
+0 Tau
+0 Upsilon
+0 Big Upsilon
+0 Phi
+3 Big Phi
+0 Chi
+1 Psi
+0 Omega
+0 Big Omega
+
+--####--####
+-##--##-#--#
+-#----###--##
+##--**--#.--##
+#--*--*-#*#--#
+#-*----**--#-#
+#-*-##-*---#-#
+##-*--*#*#-#-#
+-#$-**-#-*-#-#
+-#@#--##-----#
+-##--####--###
+--#--#--####
+--#--#
+--####
+Title: Alfa
+Author: DrFogh
+Comment: All boxes need to be moved.
+Published: Sokoban.dk and SokobanOnline.com
+Date: 2017-10-05
+
+--#####
+-##---#
+-#----##
+##-***-###
+#-*#--*--#
+#-*-@#*--#
+#-*#$*---#
+#-*--#*####
+#-*#---*--#
+#-*--#-*--#
+#-*#---*-##
+#-*-***--#
+#-*#---###
+#-.#----#
+#---###-#
+###-----#
+--#######
+Title: Beta
+Author: DrFogh
+Comment: Another revised version of Beta. One dead box at D4. Probably no more.
+Date: 2018-10-19
+
+######
+#----#######
+#-#--##----#
+#-#-$---##-####
+#-#-*-##--*---#
+#--**-##--*---#
+##-#-*##-*-####
+-#---*-#-*---#
+-####-*-*#---#
+-####-*-*-####
+-#-----*--##
+-#---#*#*--#
+-####-*@*--#
+----#--.####
+----#####
+Title: Gamma
+Author: DrFogh
+Comment: Revised 2018-12-22. The first published version had a floor at I14
+Published: Sokoban.dk
+Date: 2018-05-19
+
+----#####
+----#---##
+#####-#--#
+#---#----##
+#---*****-#
+####-*-#.-#
+---#-*-#--#
+---#-*-#--#
+---#-*-#--#
+-###-*@####
+-#--***#
+-#-#-$-#
+-#-----#
+-####--#
+----####
+Title: Big Gamma
+Author: DrFogh
+Published: Sokoban.dk
+Date: 2018-03-11
+
+--#######
+-##-----#
+-#--##--##
+-#---***-##
+-###*---*-##
+--#-.-#-#--#
+###--***-#-#
+#---*---*#-##
+#-#*#--#-*--#
+#--*--##-*--#
+###*####-*--#
+--#-*---*-###
+--#--***--#
+--##--$---#
+---#---#@-#
+---########
+Title: Delta
+Author: DrFogh, Anian
+Comment: The x'th version to get everything moving
+Date: 2018-11-25
+
+---#####
+---#---####
+---#--$---#
+---###*-#-#
+---#--.---#
+--##-***-##
+-##--*-**-#
+-#--*---*-##
+-#--*-#-**-###
+-#-*#----*---#
+-#-*-####**--#
+##*---@---*--#
+#-*********--#
+#-#---#---####
+#-#---#---#
+#--#-######
+##---#
+-#####
+Title: Big Delta
+Author: DrFogh
+Comment: Thanks to Anian I reduced the number of dead boxes from eight
+to one. I hope. You don't need to move F6 but how about J11? I haven't
+tested extensively.
+Date: 2019-02-03
+
+####
+#--######
+#--##---#####
+#---#-------##
+##--****###--#
+-#-*#--@*--#-#
+##*-####-*---#
+#--*----#-####
+#---***.#$--#
+##-*----#---#
+##*-####-*--#
+#--*----*--##
+#--#****---#
+#--#----#--#
+####--######
+---####
+Title: Epsilon
+Author: DrFogh, Anian
+Comment: Anian added a wall at L12
+Published: Sokoban.dk
+Date: 2018-08-02
+
+------####
+--#####--#
+--#------##
+-##.****--#
+-#--#--*--#
+-#-#--*####
+-#---*---#
+####*#---#
+#--*--##-#
+#--*--#--#
+#---**--##
+###---*-#
+--###*-##
+--#@$--#
+--###--#
+----####
+Title: Zeta
+Author: DrFogh
+Comment: No dead boxes
+Published: Sokoban.dk
+Date: 2018-02-03
+
+----####
+--###--####
+###-------#
+#---*-**--#
+#--***#-*-#
+##--*-#-*-#
+-##-*-#-*-#
+--#-*-#-*-#
+--#-*@#-*-#
+--#-$-#-*-#
+--#--##-.-#
+--#--######
+--####
+Title: Eta
+Author: DrFogh, Anian
+Comment: Anian found 3 unnecessray floors at H12-J12. You need to move everything.
+Published: Sokoban.dk
+Date: 2018-08-11
+
+---#####
+--##---#
+--#----####
+--#--***--#
+--#-*#--*-##
+-##*--#--*@#
+##-*--#--*###
+#--*---#-*--##
+#--*******---#
+##-*-#---*---#
+#--*-#-##*####
+#--*---#-*--#
+##$*-###-.--#
+-#--*---*#-##
+-#---***---#
+-#####----##
+-----#--###
+-----####
+Title: Theta
+Author: DrFogh
+Comment: No need to move H4. As usual Anian found a hoarde of
+dead boxes in my first version of Theta
+Date:2018-12-21
+
+--------#####
+--------#---#
+------###-#-#
+----###-----#
+----#-@***-######
+#####-*#-#*-----#
+#---$*-#---*#---#
+#----*-**.-*-#####
+#####*-#-#-*-----#
+----#-*---*#-#---#
+----#-#***---#####
+----#----#####
+----##---#
+-----#--##
+-----####
+Title: Big Theta
+Author: DrFogh, Anian
+Comment: Just do everything right and you solve the level in less than
+240 moves. First version of this level made 2017-11-24. On publishing
+Anian showed two floors left at A7 and A8 are superfluous. And the
+level can be solved without moving H8. Kept here for the look..The
+solution for the level with the walled H8 are a few moves longer.
+Published: Sokoban.dk
+Date: 2018-12-04
+
+----#####
+-####---#
+##---$--#
+#--##*-##
+#-#--*-####
+#-#--*#---#
+#-#--*----#
+#-#--*--###
+#--##*-*#
+##---.*-#
+-#####@##
+-----###
+Title: Iota
+Author: DrFogh
+Comment: You need to move everything.
+Published: SokobanOnline and Sokoban.dk
+Date: 2017-11-24
+
+--------#####
+#########---#
+#-----------#
+#--**##-**$####
+##--*--*#-*---#
+-###*-*---#---#
+--#-**##-##-###
+--#-*-*---#-#
+-##-*@#*--#-#
+-#--*##-*-#-###
+-#--*-#--*.---#
+-#--------#---#
+-##############
+Title: Kappa
+Author: DrFogh
+Comment: Anian found a dead box(=box not needed to move) so I had to make a new version
+of this level.
+Published sokoban.dk
+Date: 2018-08-15
+
+-----####
+-#####--#
+-#---#--#
+-#---*--#
+-###*#*######
+--#---*-#---#
+--#--#@*--#-##
+###---#.-##--###
+#---#-*$*--#---#
+#----*--*-*----#
+####*#-##*######
+---#-#--#-#
+---#-#--#-#
+--##-#--#-#
+--#--####-#
+--#-------#
+--#--######
+--####
+Title: Lambda
+Author: DrFogh
+Comment: You need to move everything.
+Published: Sokoban.dk
+Date: 2017-11-03
+
+---#######
+--##-----#
+--#--#-#-##
+--#-#-*---#
+--#---*-#-#
+--#--***--#
+-####*-*-###
+-#--*--**--#
+-#--*#--*--#
+###*-#--**##
+#--*--##-.#
+#--$--##@-#
+###--######
+--#--#
+--####
+Title: Big Lambda
+Author: DrFogh
+Published: sokoban.dk
+Date: 2018-05-06
+
+-----#######
+--####-----#
+-##--#-#$#-#
+-#-.-#--*--#
+-#-*-#-#*#-#
+-#-*-#--*--#
+-#-*-#--*--#
+-#-*-##-*--#
+-#-**#-***##
+-#-*-**--*-#
+##-*@#-----#
+#---#--#####
+#-----##
+#######
+Title: Mu
+Author: DrFogh
+Date: 2018-03-27
+
+---#####
+---#---####
+####------####
+#--*-#-#-*#--#
+#--*---#-*---#
+#---*-#--*#--#
+###-*-#-*---##
+-####*-#*##-#
+-#---*-*----#
+-#---#.###--#
+-##-#@$----##
+--#--##-#--#
+--##----####
+---######
+Title: Nu
+Author: DrFogh
+Comment: Loved to create this one. You just need to move one box one row
+upward to solve the level. But you need to move every box in the level to
+solve it. My best solution 412. Hope you enjoy.
+Published: Sokoban.dk
+Date: 2017-12-19
+
+----######
+----#----#
+--###----###
+###--****$-#
+#---*------#
+#-#*-####--#
+#--*-----###
+###-*-#----#
+#--##****--#
+#---*----###
+#--*###--#
+##-*--####
+-#--*----###
+-##--***---#
+--####-#*--#
+----#---*--#
+----#--+-###
+----######
+Title: Xi
+Author: DrFogh
+Comment: x Everything is moving but it isn't very difficult.
+Published: Sokoban.dk
+Date: 2017-12-29
+
+---##########
+---#----##--#
+####-----#--#
+#--*******--#
+#--*--#--*-##
+#----*-*---#
+#####*.*####
+###--*@*---#
+#--*--$--*-#
+#--*******-##
+#---#---#---#
+#---#---#---#
+#############
+Title: Big Xi
+Author: DrFogh
+Comment: You can solve the level without moving F7 or H7
+but not both.
+Published: Sokoban.dk
+Date: 2018-02-08
+
+---#####
+-###---#
+-#-----#
+##-#-#-###
+#--#-***-##
+#-#-*#--*-###
+#--*--#--*--#
+#--*#-$@-*--#
+#--*--##-*--#
+###-*-#-*##-#
+--#--*.*-#--#
+--###------##
+----#--#####
+----####
+Title: Omicron
+Author: DrFogh
+Comment: You can solve the first version of this level withouth
+moving 3 boxes.
+Now only one box is unnecessary to move.
+You even have to leave it untoched to solve the level.
+Published: Sokoban.dk
+Date: 2018-02-01
+
+--###########
+--#--#--#---#
+--#-----#.--#
+-##******--##
+-#--*--*-#-#
+-#-#*--*-#-##
+-#--*--*-#--#
+##--*##*-##-#
+#--**--*-*--#
+#---*@$**-#-#
+####--#-----#
+---#--#--####
+---#######
+Title: Pi
+Author: DrFogh
+Comment: After several frustrane attempts making a level with no dead 
+boxes I came up with this. Absolutely flawless.
+Anian, Matthias Meger, Brian Damgaard and Jordi Domenech was the ones
+to find the dead boxes and helping get a perfect level.
+Date: 2018-06-10
+
+###########
+#----#----#
+#-#-----#-#
+#-***+***-#
+##-*-$-*-##
+-#-*-#-*-#
+-#-*-#-*-#
+-#-*-#-*-#
+-#-*-#-*-#
+-#---#---#
+-#---#--##
+-########
+Title: Big Pi
+Author: DrFogh
+Comment: Reduced the floors by 4 using YASC's autocretor.
+Published: Sokoban.dk
+Date: 2018-02-15
+
+--#########
+--#---#---#
+--#--**-#-#
+###-*-#*#-#
+#--*--#-.-#
+#--*--#@*-#
+#--*-##-*-#
+###**#-*--#
+#--*-**--##
+#--*---###
+#--*----#
+##-*###-#
+-#-$----#
+-##---###
+--#####
+Title: Rho
+Author: DrFogh
+Date: 2018-05-28
+
+-------####
+---#####--#
+---#---#--##
+---#---#-.-#
+####*****--#
+#--*--@*---#
+#--*-##*####
+#--*---*--#
+###$***---#
+--#---#--##
+--#---#--#
+--########
+Title: Sigma1
+Author: DrFogh
+Published: Sokoban.dk
+Date: 2018-03-09
+
+--########
+-##---#--#
+-#--#-#--#
+-#--***--#
+-#-*#-#.###
+##-*--#---#
+#--*------#
+#--#***####
+#--#-#@*--#
+####-$*---#
+---#----###
+---######
+Title: Sigma 2
+Author: DrFogh
+Published: sokoban.dk
+Date: 2018-02-08
+
+-##########
+-#--------#
+-#@******-#
+-##*--#-*-#
+--#-*-#--##
+--#--*----#
+--#-$#.##-#
+####-*-#--#
+#---*--#--##
+#-#*----*--#
+#--******--#
+#-#-----####
+#---#--##
+########
+Title: Big Sigma
+Author: DrFogh
+Comment: Move everything if you want to solve the level.
+Published: Sokoban.dk
+Date: 2017-11-03
+
+####----####
+#--######--#
+#----------#
+#--******--#
+####-*---###
+---#-*-###
+---#-*-#
+---#-*-###
+---#-*---#
+---#-*-.-#
+---#--*$-#
+---###@###
+-----###
+Title: Tau
+Author: DrFogh
+Published: Sokoban.dk
+Date: 2018-02-14
+
+-####
+-#--######
+-#--##---#
+-#---#-#-#
+##*#$@-.-##
+#--*-#-#*-#
+#--*-#--*-#
+##-*-#-#*-#
+#--*-#--*-#
+#--*-##-*-##
+###-*--*---#
+-#---**-##-#
+-#--##-#---#
+-#--##---###
+-#########
+Title: Upsilon
+Author: DrFogh
+Comment: A cosmetic improvement 2018-02-03
+Date: 2018-01-25
+
+--####-####
+-##--#-#--##
+##---###---##
+#--*--#--*--#
+#-#-*-#-*-#-#
+#--#-*$*-#--#
+##---*@*---##
+-##-#-*-#-##
+--#-#-*-#-#
+--#-#-.-#-#
+--#-#***--#
+--#---#---#
+--#########
+Title: Big Upsilon
+Author: Drfogh
+Published: Sokoban.dk 2018-06-23
+Date: 2018-05-26
+
+-#####
+-#---#####
+-#-------###
+####*#$**--##
+#--*--*--*--#
+#--*--*--*--#
+#--*--*#-*--#
+###*#-*--*###
+-#--*****---#
+-#--#-*-#---#
+-#--#-*-#####
+-####-+-#
+----#####
+Title: Phi
+Author: DrFogh
+Comment: My kid brothers birthday so I dedicate this level to him.
+Date: 2018-02-10
+
+------####
+------#--#
+----###--##
+----#-----#
+----#-#-#-#
+----#--$--#
+----##-*-##
+--####-*-####
+-##--*****--##
+##--*--*--*--##
+#--*-#-*-#-*--#
+#--*-#-*-#-*--#
+#--*-#-*-#-*--#
+##--*#-*-#*--##
+-#---*****---#
+-#---#-*-#---#
+-#####-+-#####
+-----#####
+Title: Big Phi
+Author: DrFogh
+Comment: Several other versions of this level published at sokoban.dk.
+This one is the best and only worth keeping. Sadly 3 dead boxes.
+Published: Sokoban.dk
+Date: 2018-03-17
+
+--####
+--#--#---####
+-##--##--#--#
+##----####--##
+#--#*--#--*--#
+#--*-*-#--*--#
+#-#--*-#-*-#-#
+#--###*#*--#-#
+##-#--*-*--#-##
+-#-#--$+-###--###
+-#-#--*-*---#---##
+-#-###*#*-#--##--#
+-#---*-#-*-#---#-#
+-#--*--#-*-*---#-#
+-###*--#--*-#--#-#
+---#--##--#-#--#-#
+---#--#####--##--#
+---####---##----##
+-----------######
+Title: Chi
+Author: DrFogh
+Comment: Anian found a dead box so I reremade the level.
+Published: Sokoban.dk
+Date: 2018-03-29
+
+-######
+##----#
+#--##-#####
+#-#--$-#--#
+#-#--*-#--#
+#@*--*--*-#
+##-*-*-*--#
+###*-*-*--#
+#--*-*-*-##
+#--*-*-*-#
+##--***-##
+-##--*--#
+--##-*-##
+---#-.-#
+---#---#
+---#####
+Title: Psi
+Author: DrFogh
+Comment: No need to move D8. Looks as if there should be more dead boxes but nobody found them so far
+Published: Sokoban.dk
+Date: 2018-03-22
+
+-----########
+---###--#---###
+---#--*---*---##
+--##-*---#-*---##
+-##--*-#*#-*##--#
+##---*-#+#-*--#-#
+#--##*#-*-#*--#-#
+#-#---**-**---#-#
+#-#---#-$-##--#-#
+#--####-#----#--#
+##----#---###--##
+-####--###----##
+----##-----####
+-----#######
+Title: Omega
+Author: DrFogh
+Published: Sokoban.dk 2018-06-30
+Date: 2018-02-12
+
+---####
+---#--#
+---#--##
+-###---######
+##--#--##---#
+#---#***----#
+#-#-*---*-###
+#--*###--*--#
+#--*-----*--#
+##--*-#-*-#-#
+###--*#*-#--#
+#@$***-**.-##
+#------#--##
+###########
+Title: Big Omega
+Author: DrFogh
+Comment: Made a new Big Omega with no dead boxes.
+Date: 2018-03-28

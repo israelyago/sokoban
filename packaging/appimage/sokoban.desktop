@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Sokoban
+Comment=Classic box-pushing puzzle game
+Exec=sokoban
+Icon=sokoban
+Terminal=false
+StartupWMClass=sokoban
+Categories=Game;LogicGame;

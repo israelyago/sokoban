@@ -1,0 +1,14 @@
+version: 1
+
+AppDir:
+  path: AppDir
+  app_info:
+    id: io.github.sokoban.game
+    name: sokoban
+    icon: sokoban
+    version: "0.1.0"
+    exec: usr/bin/sokoban
+    exec_args: $@
+
+AppImage:
+  arch: x86_64

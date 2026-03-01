@@ -1,0 +1,15 @@
+# Build directories
+build/
+AppDir/
+.work/
+
+# AppImage outputs
+*.AppImage
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+
+# Other generated files
+*.o
+*.so

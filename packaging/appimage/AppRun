@@ -1,0 +1,17 @@
+#!/bin/sh
+set -eu
+
+HERE="$(dirname "$0")"
+if command -v readlink >/dev/null 2>&1; then
+    RESOLVED="$(readlink -f "$0" 2>/dev/null || true)"
+    if [ -n "$RESOLVED" ]; then
+        HERE="$(dirname "$RESOLVED")"
+    fi
+fi
+
+APPDIR="${APPDIR:-$HERE}"
+
+export SOKOBAN_ASSET_DIR="$APPDIR/usr/share/sokoban/assets"
+export SOKOBAN_LEVELS_DIR="$APPDIR/usr/share/sokoban/levels"
+
+exec "$APPDIR/usr/bin/sokoban" "$@"
