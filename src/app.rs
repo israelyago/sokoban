@@ -105,7 +105,7 @@ pub fn run(pack: &LevelPack, start_level: usize) -> anyhow::Result<()> {
                         undo_stack.clear();
                         redraw = true;
                     }
-                    KeyCode::Char('u') | KeyCode::Char('U') => {
+                    KeyCode::Char('z') | KeyCode::Char('Z') => {
                         if let Some(previous) = undo_stack.pop_back() {
                             state = previous;
                             redraw = true;

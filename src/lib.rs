@@ -1,5 +1,7 @@
 pub mod app;
 pub mod coord;
+pub mod editor;
+pub mod editor_model;
 pub mod game;
 pub mod level;
 pub mod paths;
